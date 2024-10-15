@@ -36,7 +36,8 @@ And There You Go ! 🎉
 
 ## ScreenShot of Coutdown Timer⏲️
 
-![ScreenShot of Countdown](screenshots/countdown.png)
+![ScreenShot of Countdown] 
+![countdown](https://github.com/user-attachments/assets/310e9ee0-fe61-4b96-a4b1-2436256bf386)
 
 ## Birthday Wisher🎂
 
